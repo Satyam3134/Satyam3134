@@ -1,93 +1,137 @@
-<!-- Header Banner -->
 <div align="center">
 
-```
-███████╗ █████╗ ████████╗██╗   ██╗ █████╗ ███╗   ███╗
-██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗████╗ ████║
-███████╗███████║   ██║    ╚████╔╝ ███████║██╔████╔██║
-╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║██║╚██╔╝██║
-███████║██║  ██║   ██║      ██║   ██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Satyam+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+Builder+%7C+Craftsman)](https://git.io/typing-svg)
 
-# Hey there, I'm Satyam Kumar 👋
-
-### Frontend Developer · Java Enthusiast · DSA Explorer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+%E2%98%95;Building+pixel-perfect+UIs+%F0%9F%8E%A8;Solving+problems+one+algorithm+at+a+time+%F0%9F%A7%A9;Always+learning%2C+always+growing+%F0%9F%8C±)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=satyam3134&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+<p>
+  <a href="https://linkedin.com/in/satyamkumarswe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:satyamgautam3400@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/satyam3134">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=satyam3134&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 A Little About Me
+## `$ whoami`
 
-```java
-public class Satyam extends Developer {
+```typescript
+const satyam = {
+  name     : "Satyam Kumar",
+  title    : "Full Stack Developer",
+  location : "India 🇮🇳",
 
-    String name       = "Satyam Kumar";
-    String location   = "India 🇮🇳";
-    String role       = "Frontend Developer";
+  builds: [
+    "SaaS Platforms",      // multi-tenant, scalable
+    "E-Commerce Systems",  // from cart to checkout to admin
+    "CMS & CRM Tools",     // content & customer workflows
+    "LMS Platforms",       // courses, progress tracking, certs
+    "Custom Software",     // when off-the-shelf doesn't cut it
+    "Chrome Extensions",   // browser superpowers
+    "Mobile Apps",         // cross-platform, buttery smooth
+  ],
 
-    String[] currentWork    = { "Database SQL", "System Design" };
-    String[] currentLearn   = { "Data Structures", "Algorithms" };
-    String[] askMeAbout     = { "Java", "SQL", "DSA", "React.js", "DBMS" };
-
-    String   email          = "satyamgautam3400@gmail.com";
-    boolean  openToWork     = true;
-
-    String[] funFacts = {
-        "I debug with console.log and I'm not ashamed 😅",
-        "My code works, I have no idea why",
-        "The best feature is a bug that became intentional"
-    };
-}
+  currentlyLearning : ["System Design", "DSA", "Scalable Architecture"],
+  openToWork        : true,
+  contact           : "satyamgautam3400@gmail.com",
+};
 ```
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠 What I Work With
 
 <div align="center">
 
-### 🎨 Frontend
+### Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-### ⚙️ Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### Backend
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🛠️ Tools & Others
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![Cloud Server](https://img.shields.io/badge/Cloud_Server-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏗 SaaS & Platforms</h3>
+      <ul>
+        <li>Multi-tenant architectures</li>
+        <li>Subscription & billing systems</li>
+        <li>Role-based access control</li>
+        <li>Analytics dashboards</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 E-Commerce & CMS</h3>
+      <ul>
+        <li>Custom storefronts & carts</li>
+        <li>Inventory management</li>
+        <li>CMS with rich text editing</li>
+        <li>SEO-optimised pages</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 Apps & Extensions</h3>
+      <ul>
+        <li>Cross-platform mobile apps</li>
+        <li>Chrome Extensions</li>
+        <li>CRM & LMS platforms</li>
+        <li>Custom business software</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam3134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam3134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam3134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam3134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam3134&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam3134&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
 ---
@@ -96,42 +140,32 @@ public class Satyam extends Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyam3134&theme=nord&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyam3134&theme=darkhub&column=7&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam3134&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam3134&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🎯 What I'm Up To
+## 💡 Dev Philosophy
+
+> *"Build things that matter. Ship things that work. Improve things always."*
 
 ```
-📌 Currently Working On  →  Database SQL & Query Optimization
-📚 Currently Learning    →  Data Structures & Algorithms (with Java)
-🎯 2025 Goals           →  Master DSA · Contribute to Open Source · Build full-stack apps
-💡 Ask Me About         →  Java · SQL · DSA · React.js · DBMS
+📌  I don't just write code — I architect solutions.
+🔁  Every project is a chance to learn something new.
+🎯  Clean code, fast delivery, zero excuses.
+☁️  From local dev to cloud deploy — I own the full stack.
 ```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamkumarswe)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamgautam3400@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam3134)
-
-</div>
 
 ---
 
@@ -142,8 +176,10 @@ public class Satyam extends Developer {
 
 ---
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+**Got a project in mind? Let's build something great together.**
 
-⭐️ **If you like my work, consider giving a star to my repos!**
+📬 `satyamgautam3400@gmail.com`
+
+⭐ *If my work helped you, a star means the world!*
 
 </div>
